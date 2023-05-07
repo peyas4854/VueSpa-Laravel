@@ -8,7 +8,7 @@ This is a starter for Vue inside laravel with vue-router , Vuex , Sass.
 Install my-project with npm
 
 ```bash
-  Git Clone https://github.com/peyas4854/VueSpa-Laravel
+  git Clone https://github.com/peyas4854/VueSpa-Laravel
   cd repo_folder 
 ```
 
@@ -23,10 +23,9 @@ Install my-project with npm
 
 ## Run Locally
 
-
-
 ```bash
   php artisan serve
+  npm run dev
 ```
 
 
